@@ -142,9 +142,6 @@ img {
 
 @media screen and (max-width:480px) {
 
-    header {
-        background-color: white;    
-    }
 
     .container {
         width: 100%;
